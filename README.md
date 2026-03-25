@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/netway-org/0ffa3229-6324-45f4-9b1e-a622f463a285/d5cef1c2-f42a-4b09-a26e-ae704970733c/_apis/work/boardbadge/0b242bbc-6d89-4e2c-825b-d9a31bc317b4)](https://dev.azure.com/netway-org/0ffa3229-6324-45f4-9b1e-a622f463a285/_boards/board/t/d5cef1c2-f42a-4b09-a26e-ae704970733c/Microsoft.RequirementCategory)
 ![CyberDrain Light](github_assets/img/CIPP.png#gh-dark-mode-only)
 ![CyberDrain Dark](github_assets/img/CIPP-Light.png#gh-light-mode-only)
 
